@@ -1,0 +1,22 @@
+html {
+    background-color: darkred;
+    color: white;
+}
+
+div {
+    background-color: darkred;
+} 
+
+#heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    font-size: xx-large;
+}
+
+#lose-explanation {
+    color: white;
+}
+.break {
+    height: 150px;
+}
